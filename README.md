@@ -1,4 +1,4 @@
-# f25c-prog2
+# F25C-PROG2
 Assignments and materials for the Programming 2 course @ EK
 
 | Uge | Dato             | Emne                      | Plan                                                                                                    |
