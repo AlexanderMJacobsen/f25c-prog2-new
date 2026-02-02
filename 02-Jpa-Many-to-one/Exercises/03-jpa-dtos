@@ -1,6 +1,6 @@
 # DTOs with Java Records
 
-**Prerequisites:** You should have completed Exercise 03 (Bidirectional Relationships) with Customer and Order entities using `@JsonManagedReference` and `@JsonBackReference`.
+**Prerequisites:** You should have completed Exercise 02 (Bidirectional Relationships) with Customer and Order entities using `@JsonManagedReference` and `@JsonBackReference`.
 
 **Goal:** Learn why and how to use DTOs (Data Transfer Objects) with Java Records to decouple your API from your database entities.
 
