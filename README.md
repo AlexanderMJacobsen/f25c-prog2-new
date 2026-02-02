@@ -1,0 +1,2 @@
+# f25c-prog2
+Assignments and materials for the Programming 2 course @ EK
