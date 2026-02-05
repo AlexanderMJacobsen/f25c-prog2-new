@@ -7,16 +7,16 @@ Assignments and materials for the Programming 2 course @ EK
 |     | 28.1             | JPA OneToOne              | -Vi laver OneToOne relation<br>-Vi forstår problemet med cirkulære referencer                           |
 | 6   | 2.2              | JPA OneToMany & REST      | -Vi laver en OneToMany relation <br>-Vi gennemgår unidirectional vs bidirectional                       |
 |     | 6.2              | JPA & DTOs                | -Vi gennemgår DTOs<br>-Vi kigger på exception handling                                                  |
-| 7   | 9.2              | Javascript 1              |                                                                                                         |
-|     | 13.2             | Javascript 2              |                                                                                                         |
-| 8   | 16.2             | Javascript 3              |                                                                                                         |
-|     | 20.2             | Javascript 4              |                                                                                                         |
+| 7   | 9.2              | Exception Handling        |                                                                                                         |
+|     | 13.2             | Javascript 1              |                                                                                                         |
+| 8   | 16.2             | Javascript 2              |                                                                                                         |
+|     | 20.2             | Javascript 3              |                                                                                                         |
 | 9   | 23.2             | Full stack projekt        | Her tilbydes vejledning til jeres 3 ugers XP Full stack projekt. <br>Info kommer på ItsLearning.        |
 |     | 25.2             | Full stack projekt        | -                                                                                                       |
 | 10  | 2.3              | Full stack projekt        | -                                                                                                       |
 |     | 6.3              | Full stack projekt        | -                                                                                                       |
-| 11  | 11.3             | Javascript 5              |                                                                                                         |
-|     | 13.3             | Javascript 6              |                                                                                                         |
+| 11  | 11.3             | Javascript 4              |                                                                                                         |
+|     | 13.3             | Javascript 5              |                                                                                                         |
 | 12  | 16.3             | Functional Programming    |                                                                                                         |
 |     | 20.3             | Functional Programming    |                                                                                                         |
 | 13  | 23.3             | Mocking                   |                                                                                                         |
