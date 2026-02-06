@@ -513,7 +513,7 @@ We now need to check if everything works and we can store some Kommuner - I real
 2. Check the `kommune` table: It should have ~98 rows.
 3. **The Key Check:** Look at the `region_kode` column in the `kommune` table. It should be filled with data (e.g., '1084'), proving the relationship is working.
 
-![MySQL 2][(https://github.com/ek-kiil/f25c-prog2/blob/main/assets/images/MySQL-2.png)
+![MySQL 2](https://github.com/ek-kiil/f25c-prog2/blob/main/assets/images/MySQL-2.png)
 
 **Step 3: The "Trap" (I know we already tried this, this is the last time i swear)**. We have successfully ingested the data. But lets say we wanted to display a list of Regions to a user on a frontend.
 
