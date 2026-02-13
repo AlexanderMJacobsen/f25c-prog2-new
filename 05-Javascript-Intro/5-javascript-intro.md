@@ -111,7 +111,7 @@ console.log(typeof result);
 
 **2. Create an HTML file**
 
-![image-20250128101629131](assets/image-20250128101629131.png)
+![image-20250128101629131](https://github.com/ek-kiil/f25c-prog2/blob/main/assets/image-20250128101629131.png)
 
 **3. A standard HTML file looks like this**
 
@@ -148,7 +148,7 @@ console.log(typeof result);
 
 **5. Open the HTML file within a browser**
 
-![image-20250128103331754](assets/image-20250128103331754.png)
+![image-20250128103331754](https://github.com/ek-kiil/f25c-prog2/blob/main/assets/image-20250128103331754.png)
 
 **6. Open the browser console**
 
@@ -157,11 +157,11 @@ Right click the page > Inspect
 - Mac: CMD + shift + C
 - Windows: Ctrl + shift + C
 
-![image-20250128103543301](assets/image-20250128103543301.png)
+![image-20250128103543301](https://github.com/ek-kiil/f25c-prog2/blob/main/assets/image-20250128103543301.png)
 
 **7. ???**
 
-![image-20250128103724468](assets/image-20250128103724468.png)
+![image-20250128103724468](https://github.com/ek-kiil/f25c-prog2/blob/main/assets/image-20250128103724468.png)
 
 **8. Profit**
 
