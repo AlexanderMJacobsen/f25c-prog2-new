@@ -216,7 +216,6 @@ console.log(tripledNumbers);
 // Expected output: [3, 6, 9, 12, 15]
 ```
 
-**Hints**
 
 ***Hint:*** `.map()` takes a callback function that receives each element and returns a transformed element.
 
