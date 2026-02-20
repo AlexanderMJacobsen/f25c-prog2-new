@@ -8,7 +8,7 @@
 
 <br>
 
-
+------
 
 # Exercise 1: Guess My Number
 
@@ -222,11 +222,10 @@ If a user guesses the correct answer on their first try, they build up a "streak
 
 <br>
 
-------
 
 <br>
 
-
+------
 
 # Exercise 2: Build a Table
 
@@ -444,13 +443,9 @@ const myTable = buildTable(mountains);
 
 
 
-------
-
-
-
 <br>
 
-
+------
 
 # Exercise 3: Tabs
 
@@ -664,14 +659,11 @@ buttonContainer.querySelector("button").click();
 
 <br>
 
-------
-
-
 
 <br>
 
 
-
+------
 
 
 # Exercise 4: Mouse Trail (Optional Exercise)
@@ -827,12 +819,9 @@ window.addEventListener("mousemove", (event) => {
 <br>
 
 
+<br>
 
 ------
-
-
-
-<br>
 
 # Exercise 5: The Balloon (Optional Exercise)
 
@@ -1011,12 +1000,10 @@ window.addEventListener("keydown", handleArrowKeys);
 <br>
 
 
+<br>
+
 
 ------
-
-
-
-<br>
 
 # Exercise 6: Live Search and Filter Dashboard (Super Optional Exercise)
 
